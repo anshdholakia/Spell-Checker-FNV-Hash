@@ -1,0 +1,4 @@
+hello wordl! my name is ansh. 
+same incorrect wordl twice should report error onyl once if you update the dictionary.
+this github repository is all abou the spll checkign ith the us of the fnv hahs functio.
+htanks
